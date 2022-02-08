@@ -4,4 +4,5 @@ Console.WriteLine("Hello, World!");
 //UC-1
 LineComparison length = new LineComparison();
 //length.LengthofLine();
-length.EqualityofLines();
+//length.EqualityofLines();
+LineComparison.CompareLines();
